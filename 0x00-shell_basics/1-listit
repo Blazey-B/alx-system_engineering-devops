@@ -1,2 +1,2 @@
 #!/bin/bash
-ls > list_file.txt
+ls > file_list.txt
