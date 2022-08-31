@@ -1,2 +1,4 @@
 #!/bin/bash
-print /root/alx-system_engineering-devops/0x00-shell_basics
+p=$(pwd)
+echo "you are currentluy in: $p"
+/root/alx-system_engineering-devops/0x00-shell_basics
