@@ -1,2 +1,2 @@
 #!/bin/bash
-p=$(pwd) echo "you are currentluy in: $p"
+p=$(pwd) echo "you are currently in: $p" /root/alx-system_engineering-devops/0x00-shell_basics  pwd - print name of current/working directory
