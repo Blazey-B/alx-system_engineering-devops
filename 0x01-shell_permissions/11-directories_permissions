@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 711 MainDir=/path/to/dir/containing/subdirs 
+chmod a+x */ 
